@@ -1,6 +1,7 @@
 # ci-01-intro
 ## ссылки на файлы:
 https://github.com/DaddyMorlan/ci-01-intro/blob/main/1/for%20TASKS.xml
+
 https://github.com/DaddyMorlan/ci-01-intro/blob/main/1/for%20BUG.xml
 ## Скриншоты (self hosted версия)
 ![BUG](https://github.com/DaddyMorlan/ci-01-intro/blob/main/1/bug%20workflow.png)
